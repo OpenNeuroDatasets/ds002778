@@ -1,8 +1,13 @@
 {
     "meds": {
-        "Sel,RopXL": {
+        "Sel": {
             "Dose (mg)": "1",
             "hours since meds": "13",
+            "times/day": "1"
+        },
+        "RopXL": {
+            "Dose (mg)": "12",
+            "hours since meds": "25",
             "times/day": "1"
         }
     },
