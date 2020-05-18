@@ -11,3 +11,5 @@ Nicko Jackson, Scott R. Cole, Bradley Voytek, Nicole C. Swann. Characteristics o
 Swann NC, de Hemptinne C, Aron AR, Ostrem JL, Knight RT, Starr PA. Elevated synchrony in Parkinson disease detected with electroencephalography. Ann Neurol. 2015 Nov;78(5):742-50. doi: 10.1002/ana.24507. Epub 2015 Sep 2. PMID: 26290353; PMCID: PMC4623949.
 
 George JS, Strunk J, Mak-McCully R, Houser M, Poizner H, Aron AR. Dopaminergic therapy in Parkinson's disease decreases cortical beta band coherence in the resting state and increases cortical beta band power during executive control. Neuroimage Clin. 2013 Aug 8;3:261-70. doi: 10.1016/j.nicl.2013.07.013. PMID: 24273711; PMCID: PMC3814961.
+
+Note: see this discussion on the structure of the json files that is sufficient but not optimal and will hopefully be changed in future versions of BIDS: https://neurostars.org/t/behavior-metadata-without-tsv-event-data-related-to-a-neuroimaging-data/6768/25.
